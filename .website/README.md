@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+Pixel Quest is a tiny MMORPG in which you can save the world from a pixel monster invasion. Your little hero can be controlled via the arrow keys + space.
